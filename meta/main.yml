@@ -1,5 +1,6 @@
 ---
 galaxy_info:
+  role_name: users
   author: Mark Harrison (Modified by SinglePlatform Engineering)
   description: User creation role
   license: MIT
